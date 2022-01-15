@@ -26,3 +26,9 @@ then create an user using this command
 now give the full provilege to the user
 
 `GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' WITH GRANT OPTION;`
+
+
+
+# Now for Laravel setup
+I will install composer by running
+`sudo apt install composer`
