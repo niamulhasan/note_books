@@ -32,3 +32,5 @@ now give the full provilege to the user
 # Now for Laravel setup
 I will install composer by running
 `sudo apt install composer`
+
+
