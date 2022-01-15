@@ -34,3 +34,11 @@ I will install composer by running
 `sudo apt install composer`
 
 
+
+#(Optional Only for me)
+I want to use vs code on my windows machine to edit server's files
+
+Run this command to give premission to the vs code for editing file
+`sudo chown -R user name /directory`
+
+
